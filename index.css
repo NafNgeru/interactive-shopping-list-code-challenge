@@ -1,0 +1,21 @@
+body{
+  font-family: Georgia;
+  padding: 200px;
+  scale: 150%;
+  justify-items: center;
+  background-color: aliceblue;
+}
+
+#itemInput {
+    flex: 1;
+    padding: 15px;
+    font-size: 20px;
+    background-color: bisque;
+}
+
+#shoppingList li {
+    margin: 10px;
+    padding: 15px;
+    background-color: rgb(142, 245, 121);
+}
+
